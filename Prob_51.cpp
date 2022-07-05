@@ -1,4 +1,5 @@
 //* Recursion on subsequence (Printing subsequence)
+// https://leetcode.com/problems/subsets/discuss/731215/C%2B%2B-3-approaches%3A-Recursive-Iterative-Bit-Manipulation-Solutions
 
 #include<bits/stdc++.h>
 using namespace std;
